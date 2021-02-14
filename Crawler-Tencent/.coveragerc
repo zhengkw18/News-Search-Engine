@@ -1,0 +1,7 @@
+[run]
+branch = False
+
+omit =
+  */spiders/__init__.py
+  */__init__.py
+  run.py
